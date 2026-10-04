@@ -182,3 +182,25 @@ This project is licensed under the MIT License. See the `LICENSE` file for detai
 ## 🙌 Acknowledgements
 
 Built with LangGraph, LangChain, Google Gemini and Streamlit.
+
+---
+
+## 👨‍💻 Author
+Harsh Adhana
+
+B.Tech CSE | AI & Machine Learning Enthusiast
+
+Interested in:
+
+Artificial Intelligence
+Machine Learning
+Generative AI
+LLMs
+RAG
+AI Agents
+Model Context Protocol (MCP)
+
+--- 
+
+## ⭐ If you found this project useful
+Feel free to explore the repository and connect with me on LinkedIn.
