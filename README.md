@@ -5,7 +5,7 @@ ResearchMind is a multi-agent research assistant. Give it any topic and four spe
 It runs from the terminal or from a Streamlit web interface with live progress.
 
 <!-- Add a screenshot of the UI here: ![ResearchMind UI](screenshots/ui.png) -->
-
+![alt text](image.png)
 ---
 
 ## ✨ Features
