@@ -1,0 +1,33 @@
+# LangChain Core / LCEL -> LCEL is a way to connect different LangChain components together into a pipeline.
+langchain
+langchain-core
+langchain-community
+
+# Multi-Agent / Agent Workflow
+langgraph
+
+# Groq
+langchain-groq
+
+# Google Gemini
+langchain-google-genai
+
+# Tavily Search
+tavily-python
+langchain-tavily
+
+# Web Scraping
+beautifulsoup4
+requests
+
+# Environment Variables
+python-dotenv
+
+# Data Validation
+pydantic
+
+# HTTP / Async
+httpx
+aiohttp
+
+streamlit
